@@ -1,3 +1,7 @@
 .terraform
 *.tfstate
 *.tfstate.backup
+windows_amd64
+terraform.exe
+tf.exe
+terraform_0.11.10_windows_amd64.zip
